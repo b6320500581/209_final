@@ -11,15 +11,11 @@ int main()
     {
         for(k=0;k<n;k++)
         {
-            while(a[j]!=a[k+1])
-            {
                  if(a[j]=a[k+1])
              {
                 printf("%d",a[j]);
                  break;
              }
-            }
-
 
         }
     }
